@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 /**
  * main - main function of the code
  *
- *Return: 0 on success
+ *Return: 0 (success)
  */
 int main(void)
 {
