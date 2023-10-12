@@ -6,8 +6,12 @@
 */
 int main(void)
 {
-int i;
-for (i = 0; i < 10; i++)
-printf("%d\n", i);
+int num;
+while (num < 10)
+{
+printf("%d", num);
+num++;
+}
+printf("\n");
 return (0);
 }
