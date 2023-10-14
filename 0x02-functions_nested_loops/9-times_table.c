@@ -20,7 +20,7 @@ _putchar(32);
 _putchar(d + '0');
 _putchar(u + '0');
 }
-else 
+else
 {
 if (y != 0)
 {
