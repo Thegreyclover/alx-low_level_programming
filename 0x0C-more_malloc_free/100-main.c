@@ -10,6 +10,7 @@
 * Return: Nothing.
 */
 void simple_print_buffer(char *buffer, unsigned int size)
+{
 unsigned int i;
 i = 0;
 while (i < size)
@@ -47,4 +48,3 @@ simple_print_buffer(p, 98);
 free(p);
 return (0);
 }
-
