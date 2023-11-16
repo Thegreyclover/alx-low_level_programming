@@ -17,7 +17,7 @@ while (i < size)
 {
 if (i % 10)
 {
-rintf(" ");
+printf(" ");
 }
 if (!(i % 10) && i)
 {
